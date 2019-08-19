@@ -1,0 +1,23 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "learning to build chatroom with websocket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Derek-Leung/chatroom.git"
+  },
+  "author": "Derek Leung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Derek-Leung/chatroom/issues"
+  },
+  "homepage": "https://github.com/Derek-Leung/chatroom#readme",
+  "dependencies": {
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0"
+  }
+}
